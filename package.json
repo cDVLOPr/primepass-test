@@ -1,0 +1,30 @@
+{
+  "name": "primepass",
+  "version": "1.0.0",
+  "description": "Initializing a new project for the company's PrimePass test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cDVLOPr/primepass-test.git"
+  },
+  "author": "Caio Henrique dos Santos Caldas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cDVLOPr/primepass-test/issues"
+  },
+  "homepage": "https://github.com/cDVLOPr/primepass-test#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-sass": "^3.4.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1"
+  }
+}
